@@ -1,4 +1,4 @@
-# Visual Computing Lab Official Website
+# SMILE Lab NITK Official Website
 
 ### Add a new member
 
@@ -27,17 +27,17 @@ Sample example for adding a current member.
 #### Add Alumni
 
 - Add detauks in [_data/lab_alumni.yml](_data/lab_alumni.yml)
-- The `position` field accepts only values `M. Tech. (CDS)`, `Ph. D.`, `M. Tech. (research)`, `Project Assistant`, `Intern`. These are case case sensitive
+- The `position` field accepts only values `M. Tech. (ECE)`, `Ph. D.`, `M. Tech. (research)`, `Project Assistant`, `Intern`. These are case case sensitive
 - On website it will automatically show Dissertation/Thesis based on qualification.
 
 Sample example for adding an alumnus.
 ```yml
-- name: Aditya Kumar Pal 
-  position: M. Tech. (CDS)
+- name: SAMPLE
+  position: M. Tech
   year: 2018-21
-  url: https://www.linkedin.com/in/adityakumarpal17059
-  affiliation: Walmart Labs
-  worked_on: Anomaly Detection and Localization Using Image Inpainting
+  url: https://www.linkedin.com/in/
+  affiliation: 
+  worked_on:  Image Processing
 ```
 
 ### Add a new publication
