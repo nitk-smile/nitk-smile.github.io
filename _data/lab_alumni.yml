@@ -19,76 +19,18 @@
 
 ########################## Project Assistants ##########################
 
-- name: Monish Keswani
+- name: Sample 2
   position: Project Assistant
-  year: 2020-21
-  url: https://www.linkedin.com/in/monish-keswani-30331bb5
-  affiliation: Visual Recognition Group, Czech Technical University
-  
-- name: Sarthak Srivastava
-  position: Project Assistant
-  year: 2020-21
-  url: https://www.linkedin.com/in/ssarthak/
-  affiliation: Amazon
-
-- name: Saksham Jain
-  position: Project Assistant
-  year: 2020-21
-  url: https://www.linkedin.com/in/saksham-jain01/
-  affiliation: Duke University (M.S., ECE)
-
-- name: Sharan Seshadri
-  position: Project Assistant
-  year: 2019
-  url: https://www.linkedin.com/in/sharan-seshadri/
-  affiliation: SDE, Juniper Networks
-
-- name: Rajath R. Dani
-  position: Project Assistant
-  year: 2019-21
-  url: https://www.linkedin.com/in/rajath-r-dani-51b34382
-  affiliation: New York University
-
-- name: Shashank Shekhar
-  position: Project Assistant
-  year: 2018-19
-  url: https://www.linkedin.com/in/sshkhr
-  affiliation: Facebook AI
-
-- name: Akash Sonth
-  position: Project Assistant
-  year: 2020-21
-  url: https://www.linkedin.com/in/akashsonth/
-  affiliation: Virginia Tech
+  year: 
+  url: 
+  affiliation: 
 
 ############################### Interns ###############################
 
-- name: Aditi Shanmugam
+- name: Rithvik
   position: Intern
-  year: 2021
-  url: https://aditishanmugam.github.io
-  affiliation: Inferigence Quotient
-
-- name: Amandeep Kumar
-  position: Intern
-  year: 2021
-  url: https://virobo-15.github.io/
-  affiliation: NA
-
-- name: Het Shah
-  position: Intern
-  year: 2021
-  url: https://www.linkedin.com/in/het-shah163
-  affiliation: Research Intern, Microsoft Research India 
-
-- name: Vignesh Nagarajan
-  position: Intern
-  year: 2021
-  url: https://www.linkedin.com/in/vignesh-nagarajan-63793b1a4/
-  affiliation: IIITDM Kancheepuram
-
-- name: Anirudh Kannan
-  position: Intern
-  year: 2020-21
+  year: 
   url: 
-  affiliation: NA
+  affiliation: 
+
+
